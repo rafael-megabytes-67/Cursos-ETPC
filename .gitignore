@@ -1,0 +1,5 @@
+segredo.txt
+*.log
+/build
+docs/*.pdf
+node_modules/
