@@ -1,5 +1,5 @@
 # Cursos-ETPC
-Neste repositório vou dizer os cursos da ETPC 
+Neste repositório vou dizer os cursos disponíveis da ETPC 
 
 Eu vou referir os cursos da escola tecnico profissional de cantanhede, para que possam ver os cursos disponives de momento.
 
